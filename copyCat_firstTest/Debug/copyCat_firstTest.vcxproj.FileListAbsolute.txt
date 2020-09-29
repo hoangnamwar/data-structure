@@ -1,0 +1,2 @@
+N:\Data Structure\copyCat_firstTest\Debug\copyCat_firstTest.exe
+N:\Data Structure\copyCat_firstTest\Debug\copyCat_firstTest.pdb

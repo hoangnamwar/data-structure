@@ -1,0 +1,2 @@
+N:\Data Structure\first_test\Debug\first_test.exe
+N:\Data Structure\first_test\Debug\first_test.pdb
